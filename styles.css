@@ -163,6 +163,20 @@ img {
   max-width: 99%;
 }
 
-/* .images {
+.images {
   text-align: center;
-} */
+}
+
+.om {
+  display: flex;
+}
+
+#meg {
+  max-width: 20rem;
+}
+
+
+::selection {
+  background-color: #3399FF;
+  text-shadow: 0 0 5px rgb(255, 255, 255);
+}
