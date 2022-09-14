@@ -99,11 +99,11 @@ form :placeholder-shown{
     font-style: italic;
 }
 
-#center {
+.center {
     text-align: center;
 }
 
-#submit {
+form input[type="submit"] {
   padding: 15px;
   color: #ddd;
   font-weight: 700;
